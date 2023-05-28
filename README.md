@@ -13,7 +13,7 @@ ____
 :black_square_button: Выдвижение гипотез и  их проверка    
 :black_square_button: Машинное обучение    
 ## Использованные библиотеки:books:    
-Selenium
+Selenium    
 NumPy    
 Pandas    
 Matplotlib    
