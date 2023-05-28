@@ -7,7 +7,15 @@ ____
 В ходе проекта были проведены следующие работы:     
 :white_check_mark: Парсинг данных с сайта циан    
 :white_check_mark: Предобработка данных, работа с пропусками    
-:white_check_mark: Анализ существующих признаков и создание новых    
+:white_check_mark: Анализ существующих признаков и создание новых переменных 
+:white_check_mark: EDA    
 :white_check_mark: Визуализация данных    
 :black_square_button: Выдвижение гипотез и  их проверка    
 :black_square_button: Машинное обучение    
+## Использованные библиотеки:books:    
+Selenium
+NumPy    
+Pandas    
+Matplotlib    
+Seaborn   
+Sklearn   
